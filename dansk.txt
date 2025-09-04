@@ -1,5 +1,5 @@
 d dane
 a actor
-n nick
+n nice
 s silver
-k kite
+k kick
